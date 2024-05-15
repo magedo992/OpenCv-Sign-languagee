@@ -2,6 +2,8 @@ opencv-python==4.7.0.68
 mediapipe==0.9.0.1
 scikit-learn==1.2.0
 
+Download the data file from Drive: https://drive.google.com/drive/folders/1iHDm-4CqA60UH1_8XqYIwSHDa29eQBRC?usp=drive_link
+
 1. OpenCV: This is a computer vision library that provides functions for image and video processing, including capturing live video frames from a camera. You can install OpenCV using pip install opencv-python.
 
 2. MediaPipe: This is a machine learning framework from Google that provides pre-built models and pipelines for various tasks, including hand tracking and pose estimation. You can install MediaPipe using pip install mediapipe.
