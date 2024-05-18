@@ -3,4 +3,5 @@ mediapipe==0.9.0.1
 scikit-learn==1.2.0
 
 and download the data file from here "https://drive.google.com/drive/folders/1iHDm-4CqA60UH1_8XqYIwSHDa29eQBRC?usp=drive_link"
+make sure the programe run in one hand 
 
